@@ -1,10 +1,6 @@
 # Deep-Learning-Medical-Image-Classification
 Deep learning project for classifying skin disease images into 22 categories using PyTorch. Compares MLP, CNN, AlexNet, and VGG16 models with preprocessing, augmentation, and evaluation. Focuses on improving diagnostic support through automated medical image analysis.
 
-# Skin Disease Classification using Deep Learning
-
-This project focuses on automatic classification of skin disease images using deep learning. The system classifies dermatological images into 22 different classes covering inflammatory diseases, infections, tumors, pigmentation disorders, and normal skin.
-
 ## Project Overview
 The goal of this project is to assist medical image analysis by building and evaluating multiple deep learning models for multi-class skin disease classification.
 
